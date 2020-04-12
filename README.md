@@ -10,9 +10,9 @@ Before that templates for R programming will be added to this repo for those tha
 
 ## Overview
 
-##Python Templates
+## Python Templates
 
-###Data Munging
+### Data Munging
 
 *  Importing data
 
@@ -22,7 +22,7 @@ Before that templates for R programming will be added to this repo for those tha
 
 * Basic Level Classification Template
 
-###Regression
+### Regression
 
 * Simple Linear Regression
 
@@ -36,7 +36,7 @@ Before that templates for R programming will be added to this repo for those tha
 
 * Support Vector Regression (SVR)
 
-###Classification
+### Classification
 
 * Logistic Regression
 
