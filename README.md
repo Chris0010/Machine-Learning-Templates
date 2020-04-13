@@ -15,9 +15,15 @@ Before that templates for R programming will be added to this repo for those tha
 ### Data Munging
 
 *  ["Importing, Cleaning, Exporting"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Import_Export_Dataset.py)
-    * Further commentary
+    * Further explanation
+    * ["Dataset"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomMissingDataframe.csv)
 
-* Transforming Data
+* ["Transforming Categorical Data"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Categorical_Data_Coding.py)
+    * Further explanation
+    * ["Dataset"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomMixedDataframe.csv)
+
+* Feature Scaling and Preparing Data for Training and Testing
+    * Further explanation
 
 * Basic Level Regression Template
 
