@@ -22,8 +22,9 @@ Before that templates for R programming will be added to this repo for those tha
     * Further explanation
     * ["Dataset"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomMixedDataframe.csv)
 
-* Feature Scaling and Preparing Data for Training and Testing
+* ["Feature Scaling and Preparing Data for Training and Testing"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Scaling_Training_Testing.py)
     * Further explanation
+    * ["Dataset"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomMixedDataframe.csv)
 
 * Basic Level Regression Template
 
