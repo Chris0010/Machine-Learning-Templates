@@ -6,7 +6,8 @@ import matplotlib.pyplot as plt
 
 # Fitting classifier to the Training Set
 from classificationtemplate import X_test, y_test
-from K_N_N import classifier, X_train, y_train
+# from K_N_N import classifier, X_train, y_train
+from S_V_M import classifier, X_train, y_train
 
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
@@ -14,7 +15,7 @@ y_pred = classifier.predict(X_test)
 # Making the Confusion Matrix
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
-'''
+
 # Visualising the Training set results
 from matplotlib.colors import ListedColormap
 X_set, y_set = X_train, y_train
@@ -27,9 +28,9 @@ plt.ylim(X2.min(), X2.max())
 for i, j in enumerate(np.unique(y_set)):
     plt.scatter(X_set[y_set == j, 0], X_set[y_set == j, 1],
                 c = ListedColormap(('red', 'green'))(i), label = j)
-plt.title('K-NN (Training set)')
-plt.xlabel('Age')
-plt.ylabel('Estimated Salary')
+plt.title('"Classifier" (Training set)')
+plt.xlabel('"X_label"')
+plt.ylabel('"y_label"')
 plt.legend()
 plt.show()
 '''
@@ -45,8 +46,9 @@ plt.ylim(X2.min(), X2.max())
 for i, j in enumerate(np.unique(y_set)):
     plt.scatter(X_set[y_set == j, 0], X_set[y_set == j, 1],
                 c = ListedColormap(('red', 'green'))(i), label = j)
-plt.title('K-NN (Test set)')
-plt.xlabel('Age')
-plt.ylabel('Estimated Salary')
+plt.title('"Classifier" (Test set)')
+plt.xlabel('"X_label"')
+plt.ylabel('"y_label"')
 plt.legend()
 plt.show()
+'''
