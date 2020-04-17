@@ -28,7 +28,9 @@ Before that templates for R programming will be added to this repo for those tha
 
 * Basic Level Regression Template
 
-* Basic Level Classification Template
+* ["Basic Level Classification Template"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/classificationtemplate.py)
+
+* ["Visualization of Training and Test Models"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Predict_Visualize.py)
 
 ### Regression
 
@@ -48,7 +50,7 @@ Before that templates for R programming will be added to this repo for those tha
 
 * Logistic Regression
 
-* K-Nearest Neighbor (KNN)
+* ["K-Nearest Neighbor (KNN)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/K_N_N.py)
 
 * Support Vector Machine (SVM) & Kernel SVM
 
