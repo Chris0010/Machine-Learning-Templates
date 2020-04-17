@@ -52,7 +52,7 @@ Before that templates for R programming will be added to this repo for those tha
 
 * ["K-Nearest Neighbor (KNN)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/K_N_N.py)
 
-* Support Vector Machine (SVM) & Kernel SVM
+* ["Support Vector Machine (SVM) & Kernel SVM"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/S_V_M.py)
 
 * Naive Bayes
 
