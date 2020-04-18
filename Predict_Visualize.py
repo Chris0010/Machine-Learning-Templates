@@ -7,7 +7,8 @@ import matplotlib.pyplot as plt
 # Fitting classifier to the Training Set
 from classificationtemplate import X_test, y_test
 # from K_N_N import classifier, X_train, y_train
-from S_V_M import classifier, X_train, y_train
+# from S_V_M import classifier, X_train, y_train
+from Logistic_Regression import classifier, X_train, y_train
 
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
@@ -15,6 +16,7 @@ y_pred = classifier.predict(X_test)
 # Making the Confusion Matrix
 from sklearn.metrics import confusion_matrix
 cm = confusion_matrix(y_test, y_pred)
+print(cm)
 
 # Visualising the Training set results
 from matplotlib.colors import ListedColormap
