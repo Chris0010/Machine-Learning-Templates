@@ -6,9 +6,12 @@ import matplotlib.pyplot as plt
 
 # Fitting classifier to the Training Set
 from classificationtemplate import X_test, y_test
+# from Logistic_Regression import classifier, X_train, y_train
 # from K_N_N import classifier, X_train, y_train
 # from S_V_M import classifier, X_train, y_train
-from Logistic_Regression import classifier, X_train, y_train
+# from NaiveBayes import classifier, X_train, y_train
+# from DecisionTreeClassification import classifier, X_train, y_train
+# from RandomForestClassification import classifier, X_train, y_train
 
 # Predicting the Test set results
 y_pred = classifier.predict(X_test)
