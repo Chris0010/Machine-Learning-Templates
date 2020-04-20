@@ -54,11 +54,11 @@ Before that templates for R programming will be added to this repo for those tha
 
 * ["Support Vector Machine (SVM) & Kernel SVM"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/S_V_M.py)
 
-* Naive Bayes
+* ["Naive Bayes"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/NaiveBayes.py)
 
-* Decision Tree (Classification)
+* ["Decision Tree (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/DecisionTreeClassification.py)
 
-* Random Forest (Classification)
+* ["Random Forest (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomForestClassification.py)
 
 ### Necessary libraries to import
 
