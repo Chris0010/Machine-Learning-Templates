@@ -60,6 +60,12 @@ Before that templates for R programming will be added to this repo for those tha
 
 * ["Random Forest (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomForestClassification.py)
 
+### Clustering
+
+* ["K-Means Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/KMeansClustering.py)
+
+* ["Hierarchical Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/HierarchicalClustering.py)
+
 ### Necessary libraries to import
 
 The libraries that will be used extensively here will be:
