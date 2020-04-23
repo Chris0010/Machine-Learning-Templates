@@ -28,9 +28,9 @@ Before that templates for R programming will be added to this repo for those tha
 
 * Basic Level Regression Template
 
-* ["Basic Level Classification Template"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/classificationtemplate.py)
+* ["Basic Level Classification Template"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/classificationtemplate.py)
 
-* ["Visualization of Training and Test Models"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Predict_Visualize.py)
+* ["Visualization of Training and Test Models (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/Predict_Visualize.py)
 
 ### Regression
 
@@ -48,23 +48,23 @@ Before that templates for R programming will be added to this repo for those tha
 
 ### Classification
 
-* ["Logistic Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Logistic_Regression.py)
+* ["Logistic Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/Logistic_Regression.py)
 
-* ["K-Nearest Neighbor (KNN)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/K_N_N.py)
+* ["K-Nearest Neighbor (KNN)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/K_N_N.py)
 
-* ["Support Vector Machine (SVM) & Kernel SVM"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/S_V_M.py)
+* ["Support Vector Machine (SVM) & Kernel SVM"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/S_V_M.py)
 
-* ["Naive Bayes"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/NaiveBayes.py)
+* ["Naive Bayes"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/NaiveBayes.py)
 
-* ["Decision Tree (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/DecisionTreeClassification.py)
+* ["Decision Tree (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/DecisionTreeClassification.py)
 
-* ["Random Forest (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomForestClassification.py)
+* ["Random Forest (Classification)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/RandomForestClassification.py)
 
 ### Clustering
 
-* ["K-Means Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/KMeansClustering.py)
+* ["K-Means Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Clustering/KMeansClustering.py)
 
-* ["Hierarchical Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/HierarchicalClustering.py)
+* ["Hierarchical Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Clustering/HierarchicalClustering.py)
 
 ### Necessary libraries to import
 
