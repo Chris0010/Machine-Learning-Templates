@@ -34,17 +34,19 @@ Before that templates for R programming will be added to this repo for those tha
 
 ### Regression
 
-* Simple Linear Regression
+* ["Simple Linear Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/LinearRegression.py)
 
-* Multiple Linear Regression
+* ["Multiple Linear Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/LinearRegression.py)
 
-* Polynomial Regression
+** ["The Hard Way"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/MultipleLinearRegression.py)
+
+* ["Polynomial Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/PolynomialRegression.py)
 
 * Decission Tree (Regression)
 
 * Random Forest (Regression)
 
-* Support Vector Regression (SVR)
+* ["Support Vector Regression (SVR)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/SVR.py)
 
 ### Classification
 
@@ -65,6 +67,12 @@ Before that templates for R programming will be added to this repo for those tha
 * ["K-Means Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Clustering/KMeansClustering.py)
 
 * ["Hierarchical Clustering"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Clustering/HierarchicalClustering.py)
+
+### Reinforcement Learning
+
+* Upper Confidence Bound
+
+* Thomson Sampling
 
 ### Necessary libraries to import
 
