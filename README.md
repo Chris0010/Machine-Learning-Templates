@@ -26,7 +26,8 @@ Before that templates for R programming will be added to this repo for those tha
     * Further explanation
     * ["Dataset"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/RandomMixedDataframe.csv)
 
-* Basic Level Regression Template
+* ["Basic Level Regression Template"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/RegressionTemplate.py)
+    * Visualization section in progress after adding the model selection tool
 
 * ["Basic Level Classification Template"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Classification/classificationtemplate.py)
 
@@ -38,13 +39,13 @@ Before that templates for R programming will be added to this repo for those tha
 
 * ["Multiple Linear Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/LinearRegression.py)
 
-** ["The Hard Way"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/MultipleLinearRegression.py)
+    * ["The Hard Way"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/MultipleLinearRegression.py)
 
 * ["Polynomial Regression"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/PolynomialRegression.py)
 
-* Decission Tree (Regression)
+* ["Decission Tree (Regression)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/DecisionTreeRegression.py)
 
-* Random Forest (Regression)
+* ["Random Forest (Regression)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/RandomForestRegression.py)
 
 * ["Support Vector Regression (SVR)"](https://github.com/ctrCwill7/Machine-Learning-Templates/blob/master/Regression/SVR.py)
 
